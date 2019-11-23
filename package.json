@@ -1,0 +1,20 @@
+{
+  "name": "bae",
+  "version": "1.0.0",
+  "description": "Bae bot",
+  "main": "bae.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bae"
+  ],
+  "author": "Kotya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.0.0-b22"
+  }
+}
